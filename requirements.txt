@@ -1,0 +1,5 @@
+telegram
+dotenv
+apscheduler
+os
+pytz
